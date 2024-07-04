@@ -7,7 +7,7 @@ This Learn module deploys a basic app to Azure App Service.
 - Node.js LTS
 
 ## Local development
-
+njk
 - Create Azure resources
     - Azure App Service
 - Install npm dependencies: `npm install`
